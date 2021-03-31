@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaojomoura
+- 👋 Hi, I’m Joao Moura
 - 👀 I’m interested in games, programming, new tecnologies and travelling
 - 🌱 I’m currently learning Computer Science Enginneer at Aveiro University
 - 💞️ I’m looking to collaborate on many projects in development
