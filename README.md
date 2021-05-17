@@ -2,8 +2,8 @@
 - 👀 I’m interested in games, programming, new tecnologies and travelling
 - 🌱 I’m currently learning Computer Science Enginneer at Aveiro University
 - 💞️ I’m looking to collaborate on many projects in development
-- 📫 How to reach me linkedin.com/in/joaojomoura
-or joaojomoura@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/joaojomoura/
+or jjmoura@ua.com
 
 <!---
 joaojomoura/joaojomoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
